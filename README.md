@@ -27,7 +27,7 @@ pip install pygame
 ```
 ### Clone the Repo
 ```bash
-git clone https://github.com/your-username/flappy-bird-python.git
+git clone https://github.com/p2ratik/flappy-bird-python.git
 cd flappy-bird-python
 ```
 ## 🤝 Contributing
